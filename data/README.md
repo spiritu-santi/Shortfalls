@@ -1,7 +1,7 @@
 Here we are only able to provide some of the input data needed to run the analyses.
 All other files (> 100MB) are generated through the functions.
 
-The raw GBIF download is available at https://doi.org/10.15468/dl.544ewq![image](https://user-images.githubusercontent.com/44642626/226080766-cbc273f8-a323-4dcb-acce-367fe405875a.png)
+The raw GBIF download is available at https://doi.org/10.15468/dl.544ewq
 
 Initial bash processing of the GBIF download was performed to reduce file size
 
