@@ -2,7 +2,12 @@
 
 Files needed to run the results from:
 
-Ramírez-Barahona S, Cuervo-Robayo AP, Magallón S. 2022. Assessing digital accessible botanical knowledge and priorities for (re)exploration and discovery of plant diversity across Mesoamerica.
+- Ramírez-Barahona S, Cuervo-Robayo AP, Magallón S. 2022. Assessing digital accessible botanical knowledge and priorities for (re)exploration and discovery of plant diversity across Mesoamerica.
+
+## R script
+The repository follows the file system of the R project (NewPhytol_KEW.Rproj). All directories are needed to properly run the functions.  
+All analyses were performed in R.  
+The script is fully functional, but some of the functions are not yet fully automated, some options are 'hard-coded', and pipelines have not been benchmarked for efficiency.  
 
 - The 'data' directory contains some of the datasets (< 100MB) necessary to conduct the analyses (other data are generated within the script).  
 - The 'code' directory contains the R script to perform the analyses and plot the results.  
@@ -12,3 +17,7 @@ Ramírez-Barahona S, Cuervo-Robayo AP, Magallón S. 2022. Assessing digital acce
 
 The R code was last updated March 10, 2023 (KewCleaning.R) and contains all the functions necessary to process the geographic data as obtained
 from GBIF and harmonize it against Kew's World Checklist of Vascular Plants (https://powo.science.kew.org/).
+
+
+When using the code please cite:
+- Ramírez-Barahona S, Cuervo-Robayo AP, Magallón S. 2022. Assessing digital accessible botanical knowledge and priorities for (re)exploration and discovery of plant diversity across Mesoamerica.
