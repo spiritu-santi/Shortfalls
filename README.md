@@ -9,3 +9,6 @@ Ramírez-Barahona S, Cuervo-Robayo AP, Magallón S. 2022. Assessing digital acce
 - The 'figures' direrctory contains output plots generated within the script (NOTE: the final figures were obtained by editing figures in Adobe Illustrator).
 - The 'output' directory contains some of the output files (< 100MB) of the code (other outputs are generated within the script).
 - The 'interim' directory is empty and intermediate outputs will be saved here.
+
+The R code was last updated March 10, 2023 (KewCleaning.R) and contains all the functions necessary to process the geographic data as obtained
+from GBIF and harmonize it against Kew's World Checklist of Vascular Plants (https://powo.science.kew.org/).
