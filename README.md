@@ -18,6 +18,8 @@ The script is fully functional, but some of the functions are not yet fully auto
 The R code was last updated March 10, 2023 (KewCleaning.R) and contains all the functions necessary to process the geographic data as obtained
 from GBIF and harmonize it against Kew's World Checklist of Vascular Plants (https://powo.science.kew.org/).
 
+Code and data are available at Zenodo:
+[![DOI](https://zenodo.org/badge/194142746.svg)](https://doi.org/10.5281/zenodo.7982903)
 
 When using the code please cite:
 - Ramírez-Barahona S, Cuervo-Robayo AP, Magallón S. 2022. Assessing digital accessible botanical knowledge and priorities for (re)exploration and discovery of plant diversity across Mesoamerica.
