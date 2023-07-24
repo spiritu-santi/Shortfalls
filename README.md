@@ -2,7 +2,7 @@
 
 Files needed to run the results from:
 
-- Ramírez-Barahona S, Cuervo-Robayo AP, Magallón S. 2023. Assessing digital accessible botanical knowledge and priorities for (re)exploration and discovery of plant diversity across Mesoamerica.
+- Ramírez-Barahona S, Cuervo-Robayo AP, Magallón S. 2023. Assessing digital accessible botanical knowledge and priorities for (re)exploration and discovery of plant diversity across Mesoamerica. New Phytologist
 
 ## R script
 The repository follows the file system of the R project (NewPhytol_KEW.Rproj). All directories are needed to properly run the functions.  
@@ -22,4 +22,4 @@ Code and data are available at Zenodo:
 [![DOI](https://zenodo.org/badge/194142746.svg)](https://doi.org/10.5281/zenodo.7982903)
 
 When using the code please cite:
-- Ramírez-Barahona S, Cuervo-Robayo AP, Magallón S. 2023. Assessing digital accessible botanical knowledge and priorities for (re)exploration and discovery of plant diversity across Mesoamerica.
+- Ramírez-Barahona S, Cuervo-Robayo AP, Magallón S. 2023. Assessing digital accessible botanical knowledge and priorities for (re)exploration and discovery of plant diversity across Mesoamerica. New Phytologist
